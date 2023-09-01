@@ -14,7 +14,7 @@ int main() {
     const int wWidth = 1024;
     const int wHeight = 768; 
     
-    sf::RenderWindow window(sf::VideoMode(wWidth, wHeight), "SFML works!");
+    sf::RenderWindow window(sf::VideoMode(wWidth, wHeight), "Shapes");
     window.setFramerateLimit(60);
 
     
